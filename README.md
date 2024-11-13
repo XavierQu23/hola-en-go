@@ -49,9 +49,9 @@ localhost:8001
 
 Running with Docker
 Pull or build the Docker image:
-docker pull retroandre/go-helloworld:latest  
+docker pull xavi1920/holaengo:latest  
 docker build -t <any-name> .
 
-docker run -p 8001:8001 retroandre/go-helloworld:latest  # or <any-name>
+docker run -p 8001:8001 xavi1920/holaengo:version2  # or <any-name>
 
 
