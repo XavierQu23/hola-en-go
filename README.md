@@ -12,8 +12,7 @@ The "Hello World" project in Go is a beginner-friendly example that demonstrates
 - Installation  
 - Configuration  
 - Running the Service  
-- Running with Docker  
-- Contributing  
+- Running with Docker   
 
 ## Overview  
 This project is a simple "Hello World" application written in the Go programming language. Its purpose is to provide newcomers with a basic understanding of a Go program's structure, from setup to execution.
