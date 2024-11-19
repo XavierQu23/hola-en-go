@@ -1,2 +1,3 @@
-module HelloGoApp
-go 1.20
+module appgo
+
+go 1.23.3
